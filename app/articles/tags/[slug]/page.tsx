@@ -36,12 +36,12 @@ export async function generateMetadata({
     } available on this website.`,
     openGraph: {
       type: "website",
-      title: `Articles tagged with ${params.slug} - Mir Sazzat Hossain`,
+      title: `Articles tagged with ${params.slug} - Shikhar Gupta`,
       description: `This page contains all the articles ${
         params?.slug ? `tagged with ${params.slug}` : ""
       } available on this website.`,
       url: `${server}/articles/tags/${params.slug}`,
-      siteName: "Mir Sazzat Hossain - Innovative Researcher and Skilled Mentor",
+      siteName: "Shikhar Gupta - Innovative Researcher and Skilled Mentor",
       images: [
         {
           url: `${server}/images/cover.jpg`,
@@ -56,7 +56,7 @@ export async function generateMetadata({
       card: "summary_large_image",
       site: "@mir_sazzat",
       creator: "@mir_sazzat",
-      title: `Articles tagged with ${params.slug} - Mir Sazzat Hossain`,
+      title: `Articles tagged with ${params.slug} - Shikhar Gupta`,
       description: `This page contains all the articles ${
         params?.slug ? `tagged with ${params.slug}` : ""
       } available on this website.`,

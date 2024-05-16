@@ -14,14 +14,14 @@ export default async function generateRss(): Promise<void> {
   );
 
   const author = {
-    name: "Mir Sazzat Hossain",
-    email: "mirsazzathossain@gmail.com",
+    name: "Shikhar Gupta",
+    email: "ishgupta2015@gmail.com",
     link: "https://astral.vercel.app",
   };
 
   const feedOptions = {
-    title: "RSS Feed - Mir Sazzat Hossain",
-    description: "Mir Sazzat Hossain's personal blog",
+    title: "RSS Feed - Shikhar Gupta",
+    description: "Shikhar Gupta's personal blog",
     id: site_url,
     link: site_url,
     image: `${site_url}/images/og-image.png`,

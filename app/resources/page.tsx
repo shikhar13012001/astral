@@ -10,16 +10,16 @@ export const metadata: Metadata = {
   description:
     "These materials have been tremendously beneficial to me in my learning path. I hope you find these helpful as well!",
   openGraph: {
-    title: "Resources - Mir Sazzat Hossain",
+    title: "Resources - Shikhar Gupta",
     description:
       "These materials have been tremendously beneficial to me in my learning path. I hope you find these helpful as well!",
     url: `${server}/resources`,
     type: "website",
-    site_name: "Mir Sazzat Hossain - Innovative Researcher and Skilled Mentor",
+    site_name: "Shikhar Gupta - Innovative Researcher and Skilled Mentor",
     images: [
       {
         url: `${server}/images/og-image.png`,
-        alt: "Mir Sazzat Hossain",
+        alt: "Shikhar Gupta",
         width: 1200,
         height: 630,
       },
@@ -30,13 +30,13 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     site: "@mir_sazzat",
     creator: "@mir_sazzat",
-    title: "Resources - Mir Sazzat Hossain",
+    title: "Resources - Shikhar Gupta",
     description:
       "These materials have been tremendously beneficial to me in my learning path. I hope you find these helpful as well!",
     images: [
       {
         url: `${server}/images/og-image.png`,
-        alt: "Mir Sazzat Hossain",
+        alt: "Shikhar Gupta",
         width: 1200,
         height: 630,
       },

@@ -40,7 +40,7 @@ export async function generateMetadata({
       authors: [article?.author?.name],
       description: article?.description,
       url: `${server}/articles/${params.slug}`,
-      siteName: "Mir Sazzat Hossain - Innovative Researcher and Skilled Mentor",
+      siteName: "Shikhar Gupta - Innovative Researcher and Skilled Mentor",
       images: [
         {
           url: `${server}/images/${article?.covers[0].url}`,
