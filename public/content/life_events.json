@@ -1,0 +1,46 @@
+{
+  "2023": [
+    {
+      "title": "Software Engineering Intern at Futurepedia",
+      "description": "Architected and deployed a highly scalable client-side application using Next.js on Vercel and Sanity as CMS, supporting a user base of 180k; achieved a 19% reduction in operational costs."
+    }
+  ],
+  "2022": [
+    {
+      "title": "Software Engineering Intern at Crudcook Labs",
+      "description": "Enhanced website performance by 15% and increased page load speed by 30% by leading responsive site development using React.js, Next.js, and Redux."
+    },
+    {
+      "title": "UI/UX Lead at GDSC Club, IIITM Gwalior",
+      "description": "Led UI/UX initiatives and organized events to promote user-centered design principles."
+    },
+    {
+      "title": "Backend Development Organizer at AASF Club, IIITM Gwalior",
+      "description": "Organized backend development workshops and hackathons to encourage practical learning and innovation."
+    }
+  ],
+  "2021": [
+    {
+      "title": "Achieved Leetcode Rating of 1806",
+      "description": "Reached a Leetcode rating of 1806 and a best rank of 171, demonstrating my proficiency in competitive programming."
+    }
+  ],
+  "2020": [
+    {
+      "title": "Began Integrated Master's in Information Technology at IIIT Gwalior",
+      "description": "Started my Integrated Master's degree in Information Technology at IIIT Gwalior, embarking on a comprehensive technical education journey."
+    }
+  ],
+  "2019": [
+    {
+      "title": "Completed Class XII with 95.6%",
+      "description": "Graduated Class XII from CMS Kanpur Road, Lucknow with a 95.6% score."
+    }
+  ],
+  "2017": [
+    {
+      "title": "Completed Class X with 93.6%",
+      "description": "Graduated Class X from CMS Kanpur Road, Lucknow with a 93.6% score."
+    }
+  ]
+}

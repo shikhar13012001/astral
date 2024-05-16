@@ -1,0 +1,41 @@
+
+[
+  {
+    "title": "Software Engineering Intern - Fullstack",
+    "company": "Futurepedia",
+    "companyURL": "https://www.futurepedia.io/",
+    "location": "Remote",
+    "type": "Internship",
+    "date": "Oct 2022 - Jul 2023",
+    "companyLogo": "/images/iub.png",
+    "description": "Architected and deployed a highly scalable client-side application using Next.js on Vercel and Sanity as CMS, supporting a user base of 180k; achieved a 19% reduction in operational costs. Leveraged Firebase Cloud Functions for automated emails upon user creation and scheduled monthly backup to GCP. Improved page performance and user engagement by implementing custom HTML for lazy-loading YouTube videos, boosting Lighthouse score by 20 points and conversions by 15%. Led Typesense Vector Search integration, achieving a 60% increase in search precision.",
+    "skills": [
+      "Next.js",
+      "Vercel",
+      "Sanity",
+      "Firebase",
+      "Google Cloud Platform (GCP)",
+      "HTML",
+      "Typesense",
+      "JavaScript"
+    ]
+  },
+  {
+    "title": "Software Engineering Intern - Frontend",
+    "company": "Crudcook Labs",
+    "location": "Remote",
+    "companyURL": "https://www.crudcook.com/",
+    "companyLogo": "/images/iub.png",
+    "type": "Internship",
+    "date": "Jan 2022 - Jul 2022",
+    "description": "Enhanced website performance by 15% and increased page load speed by 30% by leading responsive site development using React.js, Next.js, and Redux. Integrated Google and Twitter OAuth using Firebase, resulting in a 40% increase in user registrations and streamlined authentication process. Utilized SendGrid for transactional emails, optimizing email deliverability and increasing customer engagement by 25%.",
+    "skills": [
+      "React.js",
+      "Next.js",
+      "Redux",
+      "Firebase",
+      "SendGrid",
+      "JavaScript"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "name": "Shikhar Gupta",
+  "designation": "Software Engineer and UI/UX Designer",
+  "company": {
+    "name": "Upcomming SWD intern @NASDAQ (former SDE @Futurepedia)",
+    "url": "https://www.nasdaq.com/"
+  },
+  "description": "I am Shikhar Gupta, a passionate Software Engineer with a strong background in full-stack development. Currently, I am pursuing an Integrated Master's degree in Information Technology at IIIT Gwalior, where I have achieved a CGPA of 7.02. My technical expertise spans a wide range of programming languages, including C/C++, JavaScript, TypeScript, Python, and Java, as well as proficiency in tools and frameworks like React.js, Next.js, Node.js, Express.js, GraphQL, and Docker.I have a proven track record in developing scalable and high-performance applications, with experience in serverless architecture, server-side caching, and SEO optimization using generative AI. My projects have demonstrated my ability to improve user engagement, optimize system performance, and enhance overall functionality.",
+  "socialLinks": [
+    {
+      "name": "github",
+      "url": "https://github.com/shikhar13012001"
+    },
+    {
+      "name": "linkedin",
+      "url": "https://www.linkedin.com/in/shikhar-gupta-71ab59201/"
+    },
+    {
+      "name": "twitter",
+      "url": "https://twitter.com/Nodlehs73"
+    }
+  ],
+  "resume": "files/SHIKHAR_GUPTA__Resume.pdf",
+  "note": "Seeking for open source project collobrations and internships."
+}
