@@ -11,13 +11,11 @@ async function getSpotifyPlayingNow() {
   let artist = null;
   let album = null;
   let albumImageUrl = null;
-  let songUrl = null;
-  console.log(response);
+  let songUrl = null; 
 
   if (response.status === 204 || response.status > 400) {
     response = await getRecentTrack();
-    response = await response.json();
-    console.log(response);
+    response = await response.json(); 
     song = (response as any).items[0].track;
     title = song.name;
     artist = song.artists.map((artist: any) => artist.name).join(", ");
