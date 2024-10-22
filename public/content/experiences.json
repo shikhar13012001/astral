@@ -1,5 +1,22 @@
-
 [
+  {
+    "title": "SWD - Intern",
+    "company": "NASDAQ",
+    "companyURL": "https://www.nasdaq.com/",
+    "location": "Remote",
+    "type": "Internship",
+    "date": "June 2022 - Present",
+    "companyLogo": "/images/nasdaq.webp",
+    "description": "Developed a RAG-based conversational agent MVC backend for large sensitive documents using Spring Boot, Azure OpenAI, and Prompt Advisors, enhancing processing accuracy by 30%. Optimized document indexing time by designing and implementing a parallel processing framework for batch embedding creation, leading to an 80% reduction in indexing time and significantly improving system efficiency. Designed a prototype iOS app with an intuitive UI and integrated the backend using Alamofire, demonstrating potential for a seamless user experience.",
+    "skills": [
+      "Spring Boot",
+      "Azure OpenAI",
+      "Prompt Advisors",
+      "iOS",
+      "Alamofire",
+      "MVC"
+    ]
+  },
   {
     "title": "Software Engineering Intern - Fullstack",
     "company": "Futurepedia",
@@ -7,27 +24,27 @@
     "location": "Remote",
     "type": "Internship",
     "date": "Oct 2022 - Jul 2023",
-    "companyLogo": "/images/iub.png",
-    "description": "Architected and deployed a highly scalable client-side application using Next.js on Vercel and Sanity as CMS, supporting a user base of 180k; achieved a 19% reduction in operational costs. Leveraged Firebase Cloud Functions for automated emails upon user creation and scheduled monthly backup to GCP. Improved page performance and user engagement by implementing custom HTML for lazy-loading YouTube videos, boosting Lighthouse score by 20 points and conversions by 15%. Led Typesense Vector Search integration, achieving a 60% increase in search precision.",
+    "companyLogo": "/images/futurepedia.png",
+    "description": "Architected and deployed a highly scalable client-side application using Next.js on Vercel with Sanity as CMS, supporting a user base of 200k and achieving a 19% reduction in operational costs. Optimized page loading time by implementing custom HTML for lazy-loading YouTube videos, increasing the Lighthouse score by 20 points and boosting conversions by 15%. Led the integration of Typesense Vector Search, achieving a 60% increase in search precision and significantly improving user experience.",
     "skills": [
       "Next.js",
       "Vercel",
       "Sanity",
       "Firebase",
+      "Typesense",
       "Google Cloud Platform (GCP)",
       "HTML",
-      "Typesense",
       "JavaScript"
     ]
   },
   {
     "title": "Software Engineering Intern - Frontend",
     "company": "Crudcook Labs",
-    "location": "Remote",
     "companyURL": "https://www.crudcook.com/",
-    "companyLogo": "/images/iub.png",
+    "location": "Remote",
     "type": "Internship",
     "date": "Jan 2022 - Jul 2022",
+    "companyLogo": "/images/crudcook.png",
     "description": "Enhanced website performance by 15% and increased page load speed by 30% by leading responsive site development using React.js, Next.js, and Redux. Integrated Google and Twitter OAuth using Firebase, resulting in a 40% increase in user registrations and streamlined authentication process. Utilized SendGrid for transactional emails, optimizing email deliverability and increasing customer engagement by 25%.",
     "skills": [
       "React.js",

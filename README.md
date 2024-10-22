@@ -1,6 +1,8 @@
+# Astral
+
 ![Tech Stack](public/images/msh-nextjs.png)
- 
-This is the source code of my personal website [mirsazzathossain.me](https://astral.vercel.app). This academic portfolio website is a comprehensive and visually appealing online presence that showcases my skills, achievements, and experiences in my field of study. I built the website using [Next.js](https://nextjs.org/), a highly popular JavaScript framework that allows for the creation of server-rendered and statically generated web applications. To ensure a modern and professional design, I utilized [Tailwind CSS](https://tailwindcss.com/), a utility-first CSS framework, and was inspired by the [Spotlight](https://spotlight.tailwindui.com/) theme from Tailwind UI. The content of my website is managed with the help of [Contentlayer](https://www.contentlayer.dev/), a platform that simplifies the creation and management of content, and is written in Markdown for efficient organization and formatting. The blog posts on my website feature a commenting system powered by [Giscus](https://giscus.app/), a GitHub-based discussion platform, allowing for interactive communication and feedback from my audience. Additionally, I integrated the [Spotify](https://www.spotify.com/) Web API to showcase my recently played songs on the website and used icons from [Heroicons](https://heroicons.com/) to enhance the visual appeal of my website. My website is hosted on [Vercel](https://vercel.com/), a reliable cloud platform for hosting static sites and serverless functions, ensuring smooth and fast access for all users. Overall, I believe my academic portfolio website demonstrates my dedication to staying up-to-date with modern technologies and presents a dynamic and visually striking online presence.
+
+This is the source code of my personal project, Astral. This academic portfolio website is a comprehensive and visually appealing online presence that showcases my skills, achievements, and experiences. I built the website using [Next.js](https://nextjs.org/), a highly popular JavaScript framework that allows for the creation of server-rendered and statically generated web applications. To ensure a modern and professional design, I utilized [Tailwind CSS](https://tailwindcss.com/), a utility-first CSS framework, and was inspired by the [Spotlight](https://spotlight.tailwindui.com/) theme from Tailwind UI. The content of my website is managed with the help of [Contentlayer](https://www.contentlayer.dev/), a platform that simplifies the creation and management of content, and is written in Markdown for efficient organization and formatting. The blog posts on my website feature a commenting system powered by [Giscus](https://giscus.app/), a GitHub-based discussion platform, allowing for interactive communication and feedback from my audience. Additionally, I integrated the [Spotify](https://www.spotify.com/) Web API to showcase my recently played songs on the website and used icons from [Heroicons](https://heroicons.com/) to enhance the visual appeal of my website. Astral is hosted on [Vercel](https://vercel.com/), a reliable cloud platform for hosting static sites and serverless functions, ensuring smooth and fast access for all users. Overall, I believe Astral demonstrates my dedication to staying up-to-date with modern technologies and presents a dynamic and visually striking online presence.
 
 In short, the tech stack of the website is as follows:
 
@@ -29,9 +31,9 @@ If you want to clone or fork this repository, please make sure to remove the `co
 Clone the repository by running the following command.
 
 ```bash
-git clone https://github.com/mirsazzathossain/mirsazzathossain.me.git
+git clone https://github.com/shikhar13012001/astral.git
 # or
-git clone git@github.com:mirsazzathossain/mirsazzathossain.me.git
+git clone git@github.com:shikhar13012001/astral.git
 ```
 
 You can remove the `content` and `public` directories by running the following commands.
@@ -83,4 +85,5 @@ I have used the following websites as inspiration for building this website.
 - [Tailwind Nextjs Starter Blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)
 
 The styles of the website are inspired by the [Spotlight](https://spotlight.tailwindui.com/) theme design by [Tailwind UI](https://tailwindui.com/).
-# astral
+
+---
